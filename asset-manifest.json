@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ac2e5dfe.css",
+    "main.js": "./static/js/main.a71b9ad3.js",
+    "static/js/787.2ac03bd7.chunk.js": "./static/js/787.2ac03bd7.chunk.js",
+    "static/media/SF-Compact-Rounded-Semibold.ttf": "./static/media/SF-Compact-Rounded-Semibold.5062b843b0c9813ceacd.ttf",
+    "static/media/SF-Compact-Rounded-Regular.ttf": "./static/media/SF-Compact-Rounded-Regular.542a37602feac47d5f08.ttf",
+    "static/media/diemthi.png": "./static/media/diemthi.ab211b21188bdde8d85d.png",
+    "static/media/diemchuan.png": "./static/media/diemchuan.a879059c756acb55faa9.png",
+    "static/media/3DArt.png": "./static/media/3DArt.edd5d55caf9522abaf40.png",
+    "static/media/NFT.png": "./static/media/NFT.61097e6627d3f5976903.png",
+    "static/media/banner.png": "./static/media/banner.3ba16984a950fe2edf9b.png",
+    "static/media/physic_2019.png": "./static/media/physic_2019.9dcd046b70e6fe4d0a12.png",
+    "static/media/physic_2020.png": "./static/media/physic_2020.06bdecaca21c4ee7e4c5.png",
+    "static/media/chemistry_2020.png": "./static/media/chemistry_2020.cf4f7bf58c2e65773406.png",
+    "static/media/physicSubject.png": "./static/media/physicSubject.dd519ad2a46812f5b05b.png",
+    "static/media/chemistry_2018.png": "./static/media/chemistry_2018.28b150ecd912a268e84a.png",
+    "static/media/chemistry_2019.png": "./static/media/chemistry_2019.c0960cdb1d0459ae88f3.png",
+    "static/media/math_2020.png": "./static/media/math_2020.43b350ef698732af3176.png",
+    "static/media/mathSubject.png": "./static/media/mathSubject.0d67435d7ff6ab369772.png",
+    "static/media/physic_2018.png": "./static/media/physic_2018.6c7fc18b8be7a5d145c2.png",
+    "static/media/chemistrySubject.png": "./static/media/chemistrySubject.f781ea2e48834d1721cf.png",
+    "static/media/math_2018.png": "./static/media/math_2018.9d5aa722f8d67458c1bf.png",
+    "static/media/math_2019.png": "./static/media/math_2019.023f0d955097a92c8c0f.png",
+    "static/media/LooperGroup.png": "./static/media/LooperGroup.7c88f3b0be3793aac1d7.png",
+    "static/media/avatar.png": "./static/media/avatar.8a84562cf5b117dffcd8.png",
+    "static/media/physicIcon.png": "./static/media/physicIcon.e06b416276c55709b136.png",
+    "static/media/chemistryIcon.png": "./static/media/chemistryIcon.8bde8b17bbb7f1ec499a.png",
+    "static/media/empty.png": "./static/media/empty.038ef46d50ede2ce0c90.png",
+    "static/media/mathIcon.png": "./static/media/mathIcon.a4f3bd97fab9ae3d5fa1.png",
+    "static/media/bar.svg": "./static/media/bar.e1601b099d6a27951e9d9b6751cc1de4.svg",
+    "index.html": "./index.html",
+    "main.ac2e5dfe.css.map": "./static/css/main.ac2e5dfe.css.map",
+    "main.a71b9ad3.js.map": "./static/js/main.a71b9ad3.js.map",
+    "787.2ac03bd7.chunk.js.map": "./static/js/787.2ac03bd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac2e5dfe.css",
+    "static/js/main.a71b9ad3.js"
+  ]
+}
